@@ -1,0 +1,9 @@
+python-dotenv
+azure-ai-inference
+azure-core
+sentence-transformers
+scikit-learn
+pandas
+matplotlib
+tqdm
+numpy

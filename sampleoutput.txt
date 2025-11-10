@@ -1,0 +1,71 @@
+C:\Users\DELL\PycharmProjects\PythonProject3\.venv\Scripts\python.exe C:\Users\DELL\PycharmProjects\PythonProject3\vibe_matcher.py
+✅ Sample enriched product data ready.
+
+🔄 Generating GitHub Large embeddings...:  50%|█████     | 1/2 [00:04<00:04,  4.44s/it]✅ Embedded: flowy, earthy-toned bohemian dress for f
+✅ Embedded: oversized urban hoodie with minimalistic
+✅ Embedded: structured tailored blazer radiating con
+✅ Embedded: classic 90s-inspired denim jacket adding
+✅ Embedded: sporty co-ord set ideal for gym sessions
+✅ Embedded: warm, cozy knitted sweater offering snug
+✅ Embedded: elegant, flowing silk gown for evening w
+✅ Embedded: rugged, multi-pocket cargo pants designe
+✅ Embedded: crisp white formal shirt representing cl
+✅ Embedded: bright neon sneakers with bold color pop
+✅ Large Enhanced embeddings generated and cached successfully!
+
+🔄 Generating GitHub Large embeddings...: 100%|██████████| 2/2 [00:09<00:00,  4.64s/it]
+
+🔍 Vibe Query: 'energetic urban chic' (enriched: 'energetic urban chic trendy modern stylish city streetwear dynamic bold youthful') | Latency: 2.94s
+------------------------------------------------------------
+10. 🛍️ Neon Sneakers → Bright neon sneakers with bold color pops, ideal for youthful, energetic street fashion.
+   🔸 Score: 0.629
+
+2. 🛍️ Street Hoodie → Oversized urban hoodie with minimalistic design, perfect for casual streetwear or travel comfort.
+   🔸 Score: 0.465
+
+3. 🛍️ Power Blazer → Structured tailored blazer radiating confidence, elegance, and professional chic energy.
+   🔸 Score: 0.460
+
+
+🔍 Vibe Query: 'cozy winter comfort' (enriched: 'cozy warm knit sweater winter comfort soft snug relaxed minimal elegant') | Latency: 3.85s
+------------------------------------------------------------
+6. 🛍️ Soft Knit Sweater → Warm, cozy knitted sweater offering snug winter comfort and timeless minimal style.
+   🔸 Score: 0.826
+
+2. 🛍️ Street Hoodie → Oversized urban hoodie with minimalistic design, perfect for casual streetwear or travel comfort.
+   🔸 Score: 0.510
+
+9. 🛍️ Minimalist White Shirt → Crisp white formal shirt representing clean minimalism and effortless sophistication.
+   🔸 Score: 0.443
+
+
+🔍 Vibe Query: 'minimal elegant office look' (enriched: 'minimal elegant professional formal modern clean sophisticated classic officewear') | Latency: 3.33s
+------------------------------------------------------------
+9. 🛍️ Minimalist White Shirt → Crisp white formal shirt representing clean minimalism and effortless sophistication.
+   🔸 Score: 0.655
+
+3. 🛍️ Power Blazer → Structured tailored blazer radiating confidence, elegance, and professional chic energy.
+   🔸 Score: 0.596
+
+6. 🛍️ Soft Knit Sweater → Warm, cozy knitted sweater offering snug winter comfort and timeless minimal style.
+   🔸 Score: 0.463
+
+⚠️ Empty query. Please describe your vibe.
+
+🔍 Vibe Query: 'rugged outdoor street vibe' (enriched: 'rugged outdoor adventure street utility durable functional tough') | Latency: 2.49s
+------------------------------------------------------------
+8. 🛍️ Cargo Pants → Rugged, multi-pocket cargo pants designed for outdoor adventures and utility fashion.
+   🔸 Score: 0.657
+
+2. 🛍️ Street Hoodie → Oversized urban hoodie with minimalistic design, perfect for casual streetwear or travel comfort.
+   🔸 Score: 0.425
+
+10. 🛍️ Neon Sneakers → Bright neon sneakers with bold color pops, ideal for youthful, energetic street fashion.
+   🔸 Score: 0.370
+
+
+📈 Evaluation Summary
+Average Top-1 Similarity: 0.553
+Good Matches (Top-1 ≥ 0.5): 4/5 (80.0%)
+
+
